@@ -1,1 +1,1 @@
-# ITC_Final_Project_AirBnB
+# ITC_Final_Project_Personality_Types
